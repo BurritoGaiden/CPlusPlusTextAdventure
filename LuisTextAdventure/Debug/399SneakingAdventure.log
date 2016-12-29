@@ -1,0 +1,5 @@
+﻿  GameCore.cpp
+g:\luistextadventure\gamecore.cpp(215): warning C4018: '<': signed/unsigned mismatch
+g:\luistextadventure\gamecore.cpp(239): warning C4018: '<': signed/unsigned mismatch
+  399SneakingAdventure.vcxproj -> G:\LuisTextAdventure\Debug\399SneakingAdventure.exe
+  399SneakingAdventure.vcxproj -> G:\LuisTextAdventure\Debug\399SneakingAdventure.pdb (Full PDB)
